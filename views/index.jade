@@ -1,0 +1,11 @@
+extends base-layout
+
+block append scripts
+	!= js('index')
+
+block append head
+	!= css('index')
+
+block content
+	h1= title
+	p Hello, world!
