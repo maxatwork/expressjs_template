@@ -12,6 +12,14 @@
 		"connect-assets": ">= 2.3.3",
 		"promised-io": ">= 0.3.0"
 	},
+
+	"devDependencies" : {
+		"mocha" : "*",
+		"should" : "*",
+		"supertest" : "*",
+		"grunt-exec" : "*"
+	},
+
 	"subdomain": "epxress",
 	"scripts": {
 		"start": "app.coffee"
