@@ -1,4 +1,4 @@
-Node + ExpressJS + Coffeescript + Stylus + Twitter bootstrap + assets pipeline + Mocha + Should + Supertest project template.
+Node + ExpressJS + Coffeescript + Stylus + Twitter bootstrap + Jade + assets pipeline + Mocha + Should + Supertest project template.
 Feel free to fork.
 
 # Installation
@@ -10,6 +10,7 @@ Run `grunt` to run tests once or `grunt watch` to watch file changes and run tes
 - http://learnboost.github.com/stylus/ - Expressive, robust, feature-rich CSS language built for nodejs
 - https://github.com/TrevorBurnham/connect-assets - A Rails 3.1-style asset pipeline for Node.js
 - https://github.com/shomeya/bootstrap-stylus - port of Twitter bootstrap to Stylus
+- https://github.com/visionmedia/jade - robust, elegant, feature rich template engine for nodejs 
 - https://github.com/visionmedia/nib - Stylus mixins, utilities, components, and gradient image generation
 - https://github.com/kriszyp/promised-io - Promise-based IO for JavaScript
 - http://visionmedia.github.com/mocha/ - feature-rich JavaScript test framework
