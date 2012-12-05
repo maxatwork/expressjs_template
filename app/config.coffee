@@ -1,6 +1,6 @@
 express = require 'express'
 
-app = module.exports = express.createServer();
+app = module.exports = express();
 
 # Configuration
 
